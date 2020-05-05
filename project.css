@@ -1,0 +1,143 @@
+body{
+	margin:0px;
+	text-align: center;
+	color:#545454;
+	font-size: 1.2rem;
+	line-height: 1.5;
+}
+
+h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 80px;
+	color: #cd6684;
+	font-weight: 100;
+	font-family: Dancing Script; 
+	font-size: 6rem;
+}
+
+h2{
+	margin-top: 0px;
+	color: #cd6684;
+	font-family: Handlee;
+	font-size: 1.70em;
+}
+
+h3{
+	margin-top: 0px;
+	padding-top: 80px;
+	color: #cd6684;
+	font-family: Handlee;
+	font-size: 3rem;
+}
+
+span{
+	font-weight:800;
+}
+
+hr{
+	border: dotted #545454 6px;
+	border-bottom: none;
+	width: 50px;
+}
+
+.describe{
+	width: 30%;
+	margin:auto 35%;
+}
+
+.dp{
+	border-radius: 50%;
+}
+
+.web{
+	width: 40%;
+	margin-top: 20px;
+}
+
+.Intro{
+	background-color: #fae3d9 ;
+}
+
+.About{
+	padding-top: 80px;
+}
+
+.web-development{
+	width: 35%;
+	float: left;
+	margin-right: 10px;
+}
+
+.wd{
+	width:75%;
+	margin: 50px auto;
+}
+
+.problem-solving{
+	width:35%;
+	float: right;
+	margin-left: 10px;
+}
+
+.ps{
+	width: 75%;
+	margin: 50px auto;
+}
+
+.ppt{
+	width:35%;
+	float: left;
+	margin-right: 10px;
+}
+
+.pubspeak{
+	width: 75%;
+	margin: 50px auto;
+}
+
+.leader{
+	width: 35%;
+	float: right;
+	margin-left:  10px;
+
+}
+
+.ls{
+	width: 75%;
+	margin: 50px auto;
+}
+
+.Skill{
+	margin:auto 10%;
+	
+} 
+
+.para{
+	width:50%;
+	margin: auto 25%;
+}
+
+
+.Images{
+	width:10%;
+	float: left;
+	margin: auto 5%;
+}
+
+.Images p{
+	text-align: center;
+}
+.img{
+	width: 100%;
+}
+
+.Footer{
+	background-color: #fae3d9 ;
+	clear: left;
+}
+
+.links{
+	margin:auto 1%;
+	padding-top: 1%;
+}
